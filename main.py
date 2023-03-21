@@ -3,3 +3,4 @@ print("깃허브는 재밌어요.")
 print("PC에서 입력함.")
 
 print("커밋1")
+print("커밋2")
